@@ -1,8 +1,8 @@
-# 💫 About Me:
+# About Me:
 
-I am a Computer Science (CS) undergraduate at UCSI University with a passion for software development, algorithmic problem-solving, and building impactful technology solutions[span_0](start_span)[span_0](end_span). I enjoy diving into core programming structures, exploring how software logic can solve real-world problems, and creating efficient, user-centric applications[span_1](start_span)[span_1](end_span).
+I am a Computer Science (CS) undergraduate at UCSI University with a passion for software development, algorithmic problem-solving, and building impactful technology solutions. I enjoy diving into core programming structures, exploring how software logic can solve real-world problems, and creating efficient, user-centric applications.
 
-I am continuously developing my skills in full-stack web development, frontend design, and fundamental backend logic[span_2](start_span)[span_2](end_span). I look forward to collaborating on innovative software projects and expanding my expertise in modern computing technologies[span_3](start_span)[span_3](end_span).
+I am continuously developing my skills in full-stack web development, frontend design, and fundamental backend logic.    I look forward to collaborating on innovative software projects and expanding my expertise in modern computing technologies.
 
 # 💻 Tech Stack:
 
