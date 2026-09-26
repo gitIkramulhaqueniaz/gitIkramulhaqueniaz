@@ -1,9 +1,3 @@
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=gitIkramulhaqueniaz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=gitIkramulhaqueniaz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=gitIkramulhaqueniaz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=gitIkramulhaqueniaz&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+About Me
+I am a Computer Science (CS) undergraduate at UCSI University with a passion for software development, algorithmic problem-solving, and building impactful technology solutions. I enjoy diving into core programming structures, exploring how software logic can solve real-world problems, and creating efficient, user-centric applications.
+I am continuously developing my skills in full-stack web development, frontend design, and fundamental backend logic. I look forward to collaborating on innovative software projects and expanding my expertise in modern computing technologies.
